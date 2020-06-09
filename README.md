@@ -1,6 +1,6 @@
 # alyaaiman
 
-Aplikasi ini adalah aplikasi yang dapat mengenkripsi dan mendekripsi teks dengan sandi caesar. Aplikasi bekerja sebagai berikut :
+Aplikasi Sandi Caesar ini adalah aplikasi yang dapat mengenkripsi dan mendekripsi teks dengan sandi caesar. Aplikasi bekerja sebagai berikut :
 1. Aplikasi menampilkan menu pilihan enkripsi atau dekripsi
 2. Pengguna memasukkan pilihan
 3. Aplikasi menampilkan permintaan memasukkan teks dan kunci
